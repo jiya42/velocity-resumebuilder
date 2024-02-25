@@ -1,0 +1,371 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.galileo-design-zhD {
+  width: 100%;
+  height: 159.7844rem;
+  background-color: #36045e;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #36045e;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu {
+  width: 100%;
+  height: 6.5rem;
+  position: relative;
+  border: solid 0.1rem #e5e8ea;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-4-frame-0-XMh {
+  width: 8.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 2.125rem;
+  display: flex;
+  align-items: center;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-4-frame-0-XMh .depth-5-frame-0-DEX {
+  margin: 0rem 1.6rem 0.05rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-4-frame-0-XMh .genai-5Gj {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.027rem;
+  color: #0c141c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf {
+  box-sizing: border-box;
+  padding-left: 93.8266rem;
+  width: 111.5156rem;
+  height: 4rem;
+  position: absolute;
+  left: 12.4844rem;
+  top: 1.25rem;
+  background-color: #ffffff;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf .depth-4-frame-1-i6j {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf .depth-4-frame-1-i6j .depth-5-frame-0-EKy {
+  margin-right: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.589rem 0.95rem 1.6rem;
+  width: 8.4891rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #197fe5;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf .depth-4-frame-1-i6j .depth-5-frame-0-EKy .depth-6-frame-0-8AT {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #f7f9fc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #197fe5;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf .depth-4-frame-1-i6j .depth-5-frame-1-mDR {
+  box-sizing: border-box;
+  padding: 0.95rem 2.0766rem;
+  width: 8.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #e8edf2;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-0-nuu .depth-3-frame-1-oEf .depth-4-frame-1-i6j .depth-5-frame-1-mDR .depth-6-frame-0-hcs {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #0c141c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e8edf2;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 {
+  box-sizing: border-box;
+  padding: 3.6rem 17.6rem;
+  width: 100%;
+  height: 133.2844rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj {
+  width: 100%;
+  height: 119.6844rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .depth-6-frame-0-Sis {
+  box-sizing: border-box;
+  padding: 22.4rem 5.6rem 10.4rem 5.6rem;
+  width: 100%;
+  height: 48rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.1000000015) 0%, rgba(0, 0, 0, 0.400000006) 100%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/depth-6-frame-0-bg.png');
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .depth-6-frame-0-Sis .depth-9-frame-0-BRZ {
+  width: 71rem;
+  height: 100%;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .depth-6-frame-0-Sis .depth-9-frame-0-BRZ .create-a-professional-resume-in-minutes-wfd {
+  margin-bottom: 0.8rem;
+  max-width: 71rem;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.25;
+  letter-spacing: -0.1584rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .depth-6-frame-0-Sis .depth-9-frame-0-BRZ .item--2wy {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd {
+  box-sizing: border-box;
+  padding-top: 3.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .how-it-works-Czs {
+  margin-bottom: 2.8rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #0c141c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 {
+  margin: 0rem 9.583rem 10.75rem 6.1rem;
+  width: calc(100% - 15.6828rem);
+  height: 34.7344rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD {
+  margin: 0rem 17.284rem 0.002rem 0rem;
+  width: 30.1328rem;
+  height: calc(100% - 0.0016rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD .depth-7-frame-0-9Hq {
+  margin-bottom: 1.2rem;
+  width: 26.9328rem;
+  height: 26.9328rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 13.4664rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD .depth-6-frame-1-T3d {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD .depth-6-frame-1-T3d .answer-a-few-questions-CX1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD .depth-6-frame-1-T3d .depth-7-frame-1-uRR {
+  box-sizing: border-box;
+  padding: 0 2.0664rem;
+  width: 100%;
+  height: 4.2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-0-2DD .depth-6-frame-1-T3d .depth-7-frame-1-uRR .tell-us-about-your-work-experience-and-career-goals-DBD {
+  max-width: 26rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4f7296;
+  font-family: Inter, 'Source Sans Pro';
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-2-hcB {
+  width: 29.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-2-hcB .depth-7-frame-0-Fdh {
+  margin-bottom: 1.2rem;
+  width: 26.9344rem;
+  height: 26.9344rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 13.4672rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-2-hcB .depth-6-frame-1-ndd {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-2-hcB .depth-6-frame-1-ndd .customize-your-resume-wWX {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #0c141c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-4-frame-2-Jo1 .depth-5-frame-2-hcB .depth-6-frame-1-ndd .edit-your-resume-to-make-it-perfect-you-can-also-add-or-remove-sections-fSX {
+  max-width: 29.7rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4f7296;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-5-frame-0-K1H {
+  margin: 0rem 24.25rem 0rem 24.25rem;
+  width: calc(100% - 48.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-5-frame-0-K1H .ready-to-create-a-resume-eZM {
+  margin-bottom: 7.7rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.25;
+  letter-spacing: -0.1188rem;
+  color: #0c141c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-5-frame-0-K1H .depth-9-frame-0-9m1 {
+  margin: 0rem 15.569rem 0rem 15.569rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.963rem 1.2rem 2rem;
+  width: calc(100% - 31.1375rem);
+  height: 4.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #197fe5;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-1-wn7 .depth-3-frame-0-VYj .auto-group-lupx-gmd .depth-5-frame-0-K1H .depth-9-frame-0-9m1 .depth-10-frame-0-rvK {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #f7f9fc;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #197fe5;
+}
+.galileo-design-zhD .depth-0-frame-0-T51 .depth-1-frame-0-tJj .depth-2-frame-2-iSj {
+  width: 128rem;
+  height: 20rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
