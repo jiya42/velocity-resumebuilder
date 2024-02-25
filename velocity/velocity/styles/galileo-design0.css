@@ -1,0 +1,833 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.galileo-design0-Qwq {
+  width: 100%;
+  height: 173.4rem;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq {
+  margin-bottom: 11.7rem;
+  width: 100%;
+  height: 161.7rem;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d {
+  box-sizing: border-box;
+  padding: 3.6rem 0rem 1.8rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf {
+  margin: 0rem 16rem 2rem 16rem;
+  width: calc(100% - 32rem);
+  height: 149.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf {
+  box-sizing: border-box;
+  padding: 0rem 1.6rem 1.15rem 1.6rem;
+  width: 96rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq {
+  margin: 0rem 24.75rem 3.6rem 24.75rem;
+  width: calc(100% - 49.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-0-Me7 {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-0-Me7 .depth-8-frame-0-hT5 {
+  margin-bottom: 1.6rem;
+  width: 12.8rem;
+  height: 12.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 6.4rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-0-Me7 .depth-7-frame-1-mC3 {
+  width: 100%;
+  height: 5.15rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-0-Me7 .depth-7-frame-1-mC3 .monogram-id5 {
+  width: 11.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 15.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-0-Me7 .depth-7-frame-1-mC3 .digital-agency-building-composable-websites-web-apps-Ajy {
+  width: 43.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-1-GHD {
+  margin: 0 8.3648rem;
+  width: calc(100% - 16.7297rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-1-GHD .depth-8-frame-0-QPR {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.594rem 0.95rem 1.6rem;
+  width: 13.3938rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #eff2f4;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-1-GHD .depth-8-frame-0-QPR .depth-9-frame-0-KmH {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eff2f4;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-1-GHD .depth-8-frame-0-PFM {
+  box-sizing: border-box;
+  padding: 0.95rem 1.577rem 0.95rem 1.6rem;
+  width: 11.9766rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #197fe5;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-5-frame-0-THq .depth-6-frame-1-GHD .depth-8-frame-0-PFM .depth-9-frame-0-VZH {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #197fe5;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .summary-9dq {
+  margin-bottom: 1.55rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .full-stack-developer-with-5-years-experience-in-software-development-proficient-in-a-range-of-modern-technologies-including-javascript-react-nodejs-and-more-strong-problem-solving-skills-and-a-proven-track-record-of-delivering-high-quality-scalable-solutions-passionate-about-creating-innovative-digital-experiences-that-improve-peoples-lives-gdm {
+  margin-bottom: 3.2rem;
+  max-width: 91.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .technical-skills-sCT {
+  margin-bottom: 2.75rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 5.8rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-0-8eB {
+  box-sizing: border-box;
+  padding: 1.7rem 4rem 1.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dbe0e5;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-0-8eB .depth-6-frame-0-pmu {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-0-8eB .javascript-wrX {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-1-TZy {
+  box-sizing: border-box;
+  padding: 1.7rem 7.9rem 1.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dbe0e5;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-1-TZy .depth-6-frame-0-bRH {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-1-TZy .react-jGb {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-2-Ez3 {
+  box-sizing: border-box;
+  padding: 1.7rem 6.4rem 1.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dbe0e5;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-2-Ez3 .depth-6-frame-0-ZFd {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-2-Ez3 .nodejs-V9H {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-3-ovf {
+  box-sizing: border-box;
+  padding: 1.7rem 6.8rem 1.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dbe0e5;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-3-ovf .depth-6-frame-0-9zX {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-3-ovf .python-hm9 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-4-zkF {
+  box-sizing: border-box;
+  padding: 1.7rem 9.1rem 1.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dbe0e5;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-4-zkF .depth-6-frame-0-7Zy {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .depth-4-frame-4-oM1 .depth-5-frame-4-zkF .sql-FAP {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-vcij-Ygf .work-experience-jbM {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-6-sSf {
+  box-sizing: border-box;
+  padding: 1.4rem 1.6rem 1.3rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 62.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-6-sSf .depth-6-frame-0-zGP {
+  margin-right: 63.3484rem;
+  width: 19.4516rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-6-sSf .depth-6-frame-0-zGP .depth-7-frame-0-K3m {
+  width: 100%;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-6-sSf .depth-6-frame-0-zGP .depth-7-frame-1-1xB {
+  width: 11.3rem;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-6-sSf .present-w59 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .lead-development-of-a-new-customer-portal-for-a-major-e-commerce-platform-worked-closely-with-product-managers-and-designers-to-create-a-user-friendly-interface-for-managing-subscriptions-and-orders-implemented-several-key-features-including-a-dynamic-product-search-custom-order-tracking-and-an-automated-subscription-management-system-conducted-regular-code-reviews-and-mentored-junior-developers-to-ensure-high-quality-code-standards-and-best-practices-G7R {
+  width: 92.5rem;
+  height: 12rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 70rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-8-1DR {
+  box-sizing: border-box;
+  padding: 1.4rem 1.5rem 1.3rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 83.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-8-1DR .depth-6-frame-0-vbH {
+  margin-right: 70.5781rem;
+  width: 14.1219rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-8-1DR .depth-6-frame-0-vbH .depth-7-frame-0-4Bh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-8-1DR .depth-6-frame-0-vbH .depth-7-frame-1-B1R {
+  width: 10.6rem;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-8-1DR .item-2018-2020-6PH {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-yb6o-q5y {
+  box-sizing: border-box;
+  padding: 0.4rem 1.6rem 1.15rem 1.6rem;
+  width: 96rem;
+  height: 17.15rem;
+  position: absolute;
+  left: 0;
+  top: 90.4rem;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-yb6o-q5y .developed-and-maintained-a-suite-of-internal-tools-for-a-fast-growing-tech-startup-collaborated-with-cross-functional-teams-to-build-custom-solutions-for-automating-business-processes-and-improving-operational-efficiency-led-the-migration-of-legacy-systems-to-a-modern-microservices-architecture-reducing-technical-debt-and-increasing-system-reliability-designed-and-implemented-restful-apis-for-integration-with-third-party-services-and-external-partners-iQf {
+  margin-bottom: 3.2rem;
+  max-width: 89rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .auto-group-yb6o-q5y .education-gko {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-11-dR9 {
+  box-sizing: border-box;
+  padding: 1.3rem 1.5rem 1.4rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 107.55rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-11-dR9 .depth-6-frame-0-xCX {
+  margin-right: 57.2438rem;
+  width: 27.6563rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-11-dR9 .depth-6-frame-0-xCX .depth-7-frame-0-fsd {
+  width: 100%;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-11-dR9 .depth-6-frame-0-xCX .depth-7-frame-1-BLB {
+  width: 25rem;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-11-dR9 .item-2016-2018-hZR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-12-EZM {
+  box-sizing: border-box;
+  padding: 1.3rem 1.6rem 1.4rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 114.75rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-12-EZM .depth-6-frame-0-zB9 {
+  margin-right: 42.4734rem;
+  width: 42.4266rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-12-EZM .depth-6-frame-0-zB9 .depth-7-frame-0-wMH {
+  margin-right: 0.0266rem;
+  width: calc(100% - 0.0266rem);
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-12-EZM .depth-6-frame-0-zB9 .depth-7-frame-1-QEs {
+  width: 28.8rem;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-12-EZM .item-2012-2016-j2F {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .personal-projects-Tiw {
+  width: 18.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 123.95rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.033rem;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-14-AtF {
+  box-sizing: border-box;
+  padding: 1.4rem 1.5rem 1.3rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 127.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-14-AtF .depth-6-frame-0-6G7 {
+  margin-right: 15.3609rem;
+  width: 67.7391rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-14-AtF .depth-6-frame-0-6G7 .depth-7-frame-0-dG3 {
+  width: 10.2rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-14-AtF .depth-6-frame-0-6G7 .depth-7-frame-1-HbV {
+  margin-right: 0.0391rem;
+  width: calc(100% - 0.0391rem);
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-14-AtF .present-aKh {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-15-KHH {
+  box-sizing: border-box;
+  padding: 1.4rem 1.5rem 1.3rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 135.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-15-KHH .depth-6-frame-0-zuD {
+  margin-right: 18.6219rem;
+  width: 66.0781rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-15-KHH .depth-6-frame-0-zuD .depth-7-frame-0-xLF {
+  width: 11.2rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-15-KHH .depth-6-frame-0-zuD .depth-7-frame-1-5fm {
+  width: 100%;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-15-KHH .item-2019-2020-13d {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-16-iTq {
+  box-sizing: border-box;
+  padding: 1.4rem 1.5rem 1.3rem 1.6rem;
+  width: 96rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 142.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-16-iTq .depth-6-frame-0-dqh {
+  margin-right: 13.8188rem;
+  width: 71.1813rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-16-iTq .depth-6-frame-0-dqh .depth-7-frame-0-zRM {
+  width: 18.1rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111417;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-16-iTq .depth-6-frame-0-dqh .depth-7-frame-1-7Vy {
+  width: 100%;
+  height: 2.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-3-frame-0-pkf .depth-4-frame-16-iTq .item-2017-2018-pQP {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #637587;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.galileo-design0-Qwq .galileo-design-ZZq .depth-0-frame-0-J1d .depth-9-frame-0-Z75 {
+  width: 13.1625rem;
+  height: 4.8rem;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  background-color: #197fe5;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
